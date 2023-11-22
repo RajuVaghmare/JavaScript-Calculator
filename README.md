@@ -14,7 +14,7 @@ A simple calculator implemented using HTML, CSS, and JavaScript.
 - Subtraction
 - Multiplication
 - Division
-
+  
 ## Built With
 
 - HTML

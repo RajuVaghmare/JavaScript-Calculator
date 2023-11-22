@@ -15,7 +15,6 @@ A simple calculator implemented using HTML, CSS, and JavaScript.
 - Multiplication
 - Division
 
-- 
 ## Built With
 
 - HTML
